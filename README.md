@@ -2,7 +2,7 @@
 
 - 🔭 Work as a FullStack developer
 - 🌱 Specialize in developing applications using React and Nodejs
-- 🛰️ Have hands-on experience working with DevOps practices
+- 🛰️ Have hands-on experience working with DevOps things
 - 🪙 Familiar with blockchain
 
 ## Technologies I Use
