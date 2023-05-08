@@ -13,8 +13,8 @@
 - **DevOps:** bash scripting, Docker, AWS, GCP, CI/CD
 - **Testing:** jest
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white){:target="_blank"}
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white){:target="_blank"}
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white{:target="_blank"})
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge){:target="_blank"}
 ![Fastify](https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white){:target="_blank"}
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white){:target="_blank"}
