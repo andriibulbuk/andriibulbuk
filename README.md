@@ -24,7 +24,7 @@
 
 ## Connect With Me
 
-- **Email:** [bulbuk.andriy@gmail.com](bulbuk.andriy@gmail.com)
+- **Email:** <bulbuk.andriy@gmail.com>
 - **LinkedIn:** [andriibulbuk](https://www.linkedin.com/in/andrii-bulbuk-2b9707228/)
 - **Telegram:** [andriybulbuk](https://t.me/andriybulbuk)
 
