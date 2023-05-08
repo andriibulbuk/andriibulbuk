@@ -28,6 +28,13 @@
 - **LinkedIn:** [andriibulbuk](https://www.linkedin.com/in/andrii-bulbuk-2b9707228/)
 - **Telegram:** [andriybulbuk](https://t.me/andriybulbuk)
 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:bulbuk.andriy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your_username/)](https://www.linkedin.com/in/andrii-bulbuk-2b9707228/)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/andriybulbuk)](https://t.me/andriybulbuk)
+
+
+## Additional
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriibulbuk)](https://github.com/andriibulbuk/github-readme-stats)
 
 Thanks for visiting my profile! Feel free to connect with me or check out my projects. 😊
