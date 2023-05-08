@@ -32,7 +32,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrii-bulbuk-2b9707228/)](https://www.linkedin.com/in/andrii-bulbuk-2b9707228/)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/andriybulbuk)](https://t.me/andriybulbuk)
 
-## Additional
+## Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriibulbuk&show_icons=true&theme=radical)](https://github.com/andriibulbuk/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=andriibulbuk&theme=monokai&title=MultiLanguage,Repositories,PullRequest,Commits)](https://github.com/andriibulbuk/github-profile-trophy)
