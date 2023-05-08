@@ -1,23 +1,24 @@
 # Hello, I'm Andrii 🇺🇦👋
 
-- 🔭 I'm currently working on [insert current project or goal]
-- 🌱 I'm currently learning [insert new skill or technology you're learning]
-- 💬 Ask me about [insert your expertise]
-- 📫 How to reach me: [insert your email address or social media handle]
-- 😄 Pronouns: [insert your pronouns]
+- 🔭 Work as a FullStack developer
+- 🌱 Specialize in developing applications using React and Nodejs
+- 🛰️ Have hands-on experience working with DevOps practices
+- 🪙 Familiar with blockchain
 
 ## Technologies I Use
 
 - **Programming Languages:** TypeScript, JavaScript
-- **Frameworks and Libraries:** E
-- **Tools and Technologies:** [List of tools and technologies you use regularly]
+- **Frontend Frameworks:** React
+- **Backend Frameworks:** Nest, Express, Koa, Fastify
+- **DevOps:** bash scripting, Docker, AWS, GCP, CI/CD
+- **Testing:** jest
 
 ## Connect With Me
 
-- **LinkedIn:** [Your LinkedIn profile URL]
-- **Twitter:** [Your Twitter handle]
-- **Personal Website:** [Your personal website URL]
+- **Email:** [bulbuk.andriy@gmail.com]
+- **LinkedIn:** [andriibulbuk](https://www.linkedin.com/in/andrii-bulbuk-2b9707228/)
+- **Telegram:** [andriybulbuk](https://t.me/andriybulbuk)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriibulbuk)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriibulbuk)](https://github.com/andriibulbuk/github-readme-stats)
 
 Thanks for visiting my profile! Feel free to connect with me or check out my projects. 😊
