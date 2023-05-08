@@ -1,6 +1,6 @@
 # Hello, I'm Andrii 🇺🇦👋
 
-- 🔭 Work as a FullStack developer
+- 🔭 Full Stack developer with two years of professional experience.
 - 🌱 Specialize in developing applications using Nodejs and React
 - 🛰️ Have hands-on experience working with DevOps things
 - 🪙 Familiar with blockchain
