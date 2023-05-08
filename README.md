@@ -35,5 +35,7 @@
 ## Additional
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriibulbuk&show_icons=true&theme=radical)](https://github.com/andriibulbuk/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=andriibulbuk&theme=monokai)](https://github.com/andriibulbuk/github-profile-trophy)
+
 
 Thanks for visiting my profile! Feel free to connect with me or check out my projects. 😊
