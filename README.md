@@ -1,14 +1,13 @@
 # Hello, I'm Andrii 🇺🇦👋
 
-- 🔭 Full Stack developer with two years of professional experience.
-- 🌱 Specialize in developing applications using Nodejs and React
+- 🔭 Backend developer with two and a half years of professional experience.
+- 🌱 Specialize in developing applications using Nodejs
 - 🛰️ Have hands-on experience working with DevOps things
 - 🪙 Familiar with blockchain
 
 ## Technologies I Use
 
 - **Programming Languages:** TypeScript, JavaScript
-- **Frontend Frameworks:** React
 - **Backend Frameworks:** Nest, Express, Koa, Fastify
 - **DevOps:** bash scripting, Docker, AWS, GCP, CI/CD
 - **Testing:** jest
