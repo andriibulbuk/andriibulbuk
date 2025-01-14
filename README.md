@@ -1,6 +1,6 @@
 # Hello, I'm Andrii 🇺🇦👋
 
-- 🔭 Backend developer with two and a half years of professional experience.
+- 🔭 Backend developer with 4 years of professional experience.
 - 🌱 Specialize in developing applications using Nodejs
 - 🛰️ Have hands-on experience working with DevOps things
 - 🪙 Familiar with blockchain
