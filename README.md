@@ -9,7 +9,7 @@
 
 - **Programming Languages:** TypeScript, JavaScript
 - **Backend Frameworks:** Nest, Express, Koa, Fastify
-- **DevOps:** bash scripting, Docker, AWS, GCP, CI/CD
+- **DevOps:** bash scripting, CI/CD, AWS, GCP, Azure
 - **Testing:** jest
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
